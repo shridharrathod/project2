@@ -1,0 +1,239 @@
+{
+  
+   "awscourse":[ 
+    {
+          "title":"Cloud-Computing",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/01)Cloud-Computing.pdf",
+          "description":"(Cloud Introduction)"
+    },
+	{
+      "title": "AWS",
+      "fileurl": "https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/02)AWS.pdf",
+	  "description": "(Amazon Web Services)"
+    },
+	    {
+          "title":"Billing",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/03)Billing.pdf",
+          "description":"(Pricing Estimate)"
+    },
+     {
+      "title": "EC2-Instance",
+      "fileurl": "https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/04)EC2-Instance.pdf",
+	  "description": "(Virtual Server)"
+    },
+     {
+      "title": "EC2-EBS",
+      "fileurl": "https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/07)EC2-EBS.pdf",
+      "description": "(Managed Disk)"
+    },
+     {
+      "title": "EC2-ELB",
+      "fileurl": "https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/05)EC2-ELB.pdf",
+      "description": "(Load Balancer)"
+    },
+     {
+      "title": "EC2-Auto Scaling",
+      "fileurl": "https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/06)EC2-Autoscaling.pdf",
+      "description": "(Instance Scaling)"
+    },
+      {
+          "title":"Elastic BeanStalk",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/10)Elasticbean-stalk.pdf",
+          "description":"(PAAS)"
+    },
+       
+      {
+          "title":"S3",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/08)S3.pdf",
+          "description":"(Simple Storage Service)"
+    },
+        {
+          "title":"EFS",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/14)EFS.pdf",
+          "description":"(Elastic File System)"
+    },    
+        {
+          "title":"RDS",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/16)RDS.pdf",
+          "description":"(SQL Based DB)"
+    },  
+          {
+          "title":"DynamoDB",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/17)Dynamodb.pdf",
+          "description":"(NOSQL DB)"
+    }, 
+            {
+          "title":"VPC",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/15)VPC.pdf",
+          "description":"(Virtual Private Cloud)"
+    },  
+          {
+          "title":"CloudFront",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/20)Cloudfront.pdf",
+          "description":"(Content Delivery Network)"
+    },  
+          {
+          "title":"Route53",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/22)Route53.pdf",
+          "description":"(Routing + DNS)"
+    },   
+            {
+          "title":"Cloudwatch",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/12)Cloudwatch.pdf",
+          "description":"(Monitoring and Managing)"
+    },   
+          {
+          "title":"Cloudformation",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/19)Cloudformation.pdf",
+          "description":"(Configuration management)"
+    },   
+        {
+          "title":"IAM",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/09)IAM.pdf",
+          "description":"(User and Role)"
+    },   
+          {
+          "title":"SNS",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/13)SNS.pdf",
+          "description":"(Simple Notification Service)"
+    },
+	    {
+          "title":"Lambda",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/18)Lambda.pdf",
+          "description":"(Serverless Computing)"
+    },
+	    {
+          "title":"Lightsail",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/11)Lightsail.pdf",
+          "description":"(Easy to Use)"
+    },
+          {
+          "title":"SQS",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/21)SQS.pdf",
+          "description":"(Queue Service)"
+    },  
+        {
+          "title":"Script",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/23)Shell-Script.pdf",
+          "description":"(Sequence of steps to execute a task)"
+    },   
+        {
+          "title":"AWS CLI",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/25)AWS-CLI.pdf",
+          "description":"(CLI Operation)"
+    }, 
+        {
+          "title":"Final-Practice",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/24)Practice-Set.pdf",
+          "description":"(Exercise)"
+    },
+      {
+          "title":"Test paper-1",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/IP+address+test(MCQ).pdf",
+          "description":"(IP Addressing)"
+    },
+	  {
+          "title":"Test paper-2",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/AWS+Multiple+choice+Question+Set-1.pdf",
+          "description":"(AWS Introduction)"
+    },   
+	{
+          "title":"Test Paper-3",
+          "fileurl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/aws-sa-arch/AWS+exam+dumps-1.pdf",
+          "description":"(AWS Dumps)"
+    } 
+    
+    ],
+
+    "awsvideos":[
+            {
+                "title":"Devops Introduction",
+                "videourl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/Soft-copy/devops/01)Devops-Introduction.mp4"
+            },
+            {
+                "title":"Aws Introduction",
+                "videourl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/training-video/aws-sa-associate/AWS%20(1)%20--%20AWS%20Introduction%20(Training%20video%201).mp4"
+            },
+            {
+                "title":"Ec2 introduction,launch linux,windoows,iis webserver config",
+                "videourl":"https://deepaktraining.s3.ap-south-1.amazonaws.com/training-video/aws-sa-associate/AWS%20(2)-EC2-Introduction,%20Launching%20Windows%20Intance,%20IIS%20webservr%20Conf(Training%20video%20-2).mp4"
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            },
+            {
+                "title":"",
+                "videourl":""
+            }
+            
+    ]
+  }

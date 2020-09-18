@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Lato', sans-serif;
+}
+
+.header_banner{
+    background-image: url('img/bg.jpg');
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title-content{
+    padding:10%;
+}
+
+.title-content>h2{
+    font-weight: 800;
+}
+
+svg{
+    width: 30px;
+}
+.card-img-top{
+    height: 150px;
+    background: beige;
+    background-image: url('./img/video.jpg');
+    background-size: cover;
+}
+
+footer{
+    text-align: center;
+    background:black;
+    color: white;
+    padding: 1%;
+    margin-top: 4%;;
+}
